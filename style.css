@@ -1,0 +1,33 @@
+.left {
+  width: 150px;
+  text-align: right;
+  padding-right: 40px;
+}
+
+body {
+  font-family: "PT Sans", "Arial", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+}
+
+strong {
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: 700;
+  line-height: 3em;
+  color: #ff0000;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: 600;
+  line-height: 2em;
+  color: #302683;
+}
+
+ul {
+color: #999999;
+}
